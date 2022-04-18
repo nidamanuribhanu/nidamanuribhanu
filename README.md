@@ -1,6 +1,6 @@
 ### Hi Developers 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhanu-prakash-nidamanuri-364206220/)](https://www.linkedin.com/in/bhanu-prakash-nidamanuri-364206220/)
+[![Linkedin Badge](https://img.shields.io/badge/-nidamanuribhanu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhanu-prakash-nidamanuri-364206220/)](https://www.linkedin.com/in/bhanu-prakash-nidamanuri-364206220/)
 
 I'm
 Full Stack Solution Architect
